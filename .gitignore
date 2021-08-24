@@ -6,3 +6,7 @@ venv
 
 # my credentials
 .my_credentials
+
+# settings
+settings_template.json
+settings.json
