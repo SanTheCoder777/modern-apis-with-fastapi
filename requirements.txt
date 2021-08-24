@@ -6,3 +6,6 @@ bs4
 httpx
 python-dateutil
 pydantic
+jinja2
+starlette
+aiofiles
